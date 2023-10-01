@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.168
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agw.Generic", "Agw.Generic\Agw.Generic.csproj", "{E221F676-561D-455F-821C-9B740AC21ABA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvgW.Generic", "Agw.Generic\AvgW.Generic.csproj", "{E221F676-561D-455F-821C-9B740AC21ABA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

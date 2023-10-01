@@ -2,7 +2,7 @@
 using Autodesk.AutoCAD.DatabaseServices;
 using Autodesk.AutoCAD.EditorInput;
 
-namespace Agw.Generic
+namespace AvgW.Generic
 {
     public static class Active
     {

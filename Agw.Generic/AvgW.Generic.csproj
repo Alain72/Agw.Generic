@@ -7,8 +7,8 @@
     <ProjectGuid>{E221F676-561D-455F-821C-9B740AC21ABA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Agw.Generic</RootNamespace>
-    <AssemblyName>Agw.Generic</AssemblyName>
+    <RootNamespace>AvgW.Generic</RootNamespace>
+    <AssemblyName>AvgW.Generic</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

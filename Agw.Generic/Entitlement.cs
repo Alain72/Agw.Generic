@@ -2,7 +2,7 @@
 //using System.Net;
 //using RestSharp;
 
-//namespace Agw.Generic
+//namespace AvgW.Generic
 //{
 //    public static class Entitlement
 //    {

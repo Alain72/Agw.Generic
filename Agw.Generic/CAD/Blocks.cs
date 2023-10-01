@@ -1,5 +1,5 @@
 ﻿
-namespace Agw.Generic.CAD
+namespace AvgW.Generic.CAD
 {
     internal class Blocks
     {

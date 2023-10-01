@@ -2,7 +2,7 @@
 using Autodesk.AutoCAD.Runtime;
 using System;
 
-namespace Agw.Generic.ExtensionMethods
+namespace AvgW.Generic.ExtensionMethods
 {
     public static class DatabaseExtensions
     {

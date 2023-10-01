@@ -1,13 +1,13 @@
 ﻿using Autodesk.AutoCAD.ApplicationServices;
 using Autodesk.AutoCAD.Interop;
 
-namespace Agw.Generic.CAD
+namespace AvgW.Generic.CAD
 {
-    public class AgwPreferences
+    public class AvgWPreferences
     {
         private readonly AcadPreferences acPrefComObj;
 
-        public AgwPreferences()
+        public AvgWPreferences()
         {
             acPrefComObj = (AcadPreferences)Application.Preferences;
         }

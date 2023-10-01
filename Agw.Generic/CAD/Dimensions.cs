@@ -2,7 +2,7 @@
 using System.IO;
 
 
-namespace Agw.Generic.CAD
+namespace AvgW.Generic.CAD
 {
     public static class Dimensions
     {

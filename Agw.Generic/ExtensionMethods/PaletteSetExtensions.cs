@@ -2,7 +2,7 @@
 using Autodesk.AutoCAD.Windows;
 using System.Windows.Forms;
 
-namespace Agw.Generic.ExtensionMethods
+namespace AvgW.Generic.ExtensionMethods
 {
     public static class PaletteSetExtensions
     {

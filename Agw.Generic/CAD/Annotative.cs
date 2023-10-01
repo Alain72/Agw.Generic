@@ -1,7 +1,7 @@
 ﻿using Autodesk.AutoCAD.DatabaseServices;
 using System.Windows.Forms;
 
-namespace Agw.Generic.CAD
+namespace AvgW.Generic.CAD
 {
     internal class Annotative
     {

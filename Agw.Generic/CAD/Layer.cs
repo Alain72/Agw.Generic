@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace Agw.Generic.Cad
+namespace AvgW.Generic.Cad
 {
     public static class Layers
     {
