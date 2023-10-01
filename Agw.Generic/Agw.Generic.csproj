@@ -63,6 +63,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Active.cs" />
+    <Compile Include="CAD\Annotative.cs" />
+    <Compile Include="CAD\Blocks.cs" />
+    <Compile Include="CAD\Dimensions.cs" />
     <Compile Include="CAD\Layer.cs" />
     <Compile Include="CAD\Preferences.cs" />
     <Compile Include="Entitlement.cs" />
